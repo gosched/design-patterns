@@ -2,6 +2,7 @@ package singleton
 
 import "sync"
 
+// Singleton .
 type Singleton struct {
 	Name string
 }
